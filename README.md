@@ -1,8 +1,8 @@
 # Development-in-the-Red-River-Gorge
 ## Change in Landcover Types in Wolfe, Powell, and Lee Counties
-The Red River Gorge has seen a boom in tourism due to the increased popularity of rock climbing and a burgeoning need for people to escape into nature. As a result, the Eastern Gorge Region has one of the hottest real estate markets in the US as of 2024. Cabins, rental properties, and AirBnBs have proliferated in The Gorge due to this phenomenon. 
+The Red River Gorge has seen a boom in tourism due to the increasing popularity of rock climbing and a burgeoning need for people to enjoy the great outdoors. As a result, the region has one of the hottest real estate markets in the US as of 2024. Cabins, rental properties, and AirBnBs have proliferated in The Gorge due to this increased exposure. 
 
-This map depicts the change in land cover type in The Red River Gorge from 2001 to 2019. It shows land that has been developed from both forest and pasture into housing.
+This map depicts the change in land cover type in The Red River Gorge from 2001 to 2019. It shows land that has been developed from both forest and pasture into residential land use.
 ![Caption of map](dev_map.jpg)     
 *Caption of Map*
 
